@@ -1,5 +1,4 @@
 # 💫 About Me:
-# 💫 About Me:
 i'm currently learning python and Machine learning with scikit learn<br>i'm university student at 1st semester and i'm highly interested to build Ai models 
 
 
